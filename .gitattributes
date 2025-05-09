@@ -1,4 +1,0 @@
-*.gpkg filter=lfs diff=lfs merge=lfs -text
-C:/Users/Ishaan/Desktop/PSDV-Grp-ES-114-/Lab3/DataSet/natural_earth_vector.gpkg filter=lfs diff=lfs merge=lfs -text
-C:/Users/Ishaan/Desktop/PSDV-Grp-ES-114-/Lab3/DataSet/Data.csv filter=lfs diff=lfs merge=lfs -text
-Lab3/DataSet/Data.csv filter=lfs diff=lfs merge=lfs -text
